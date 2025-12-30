@@ -5,3 +5,6 @@ https://edge.cdn-live-tv.cfd/api/v1/channels/gb-sky-sports-main-event/tracks-v1a
 
 #EXTINF:-1 tvg-logo=""group-title="bein",bein
 https://edge.cdn-live-tv.cfd/api/v1/channels/fr-bein-sports-1/index.m3u8?token=f6710e250fd98a8ce71ecfb6ec27e164dc70b21e113683da25194ce0f2d466f3.1767114296.e8bfc4d1952751c0c827f1fe992aee19.4de9b225d0553069e9773047202f0ed1.3602564ff30d6567524b7c08b6fb46e7.89d75c57c0bda0dc
+
+#EXTINF:-1 tvg-logo=""group-title="Esportes",tnt 2
+https://edge.cdn-live-tv.cfd/api/v1/channels/gb-tnt-sports-2/index.m3u8?token=d15df1626d096692979ef4b88c0fdd200a7d6921f754349d33ab083a51af7826.1767117680.0a10484bd21e0d981e603684df509760.db9dfca2583164eeb0454d86899fb050.1f0ad56bc26e4d4d4952012e682a5973.0c2b46365d7a4a73
