@@ -1,4 +1,4 @@
 #EXTINF:-1 tvg-logo=""group-title="Esportes",
 
-#EXTINF:-1 tvg-logo=""group-title="darts",sky
-https://beautifulpeople.lovecdn.ru/skysportsmainevent/tracks-v1a1/mono.m3u8?token=c2t5c3BvcnRzbWFpbmV2ZW50fG5vX2NoZWNrX2lwfDE3NjcxMDk3MDY%3D.7b01c16e48fabaa3e9b963bcdbc52bbc232e03ef206a703068134cf2b823aa19
+#EXTINF:-1 tvg-logo=""group-title="dart",sky
+https://edge.cdn-live-tv.cfd/api/v1/channels/gb-sky-sports-main-event/tracks-v1a1/mono.ts.m3u8?token=38bbe1efb9072f33884178197ac7bed118f19b2b62009141ea1510b23083cb03.1767110261.70d7c738d176df542cf78135c4573230.6a268da48f7b9afa36836d8f44718b74.3f91ad1330cac3e1d0865ff1061f923e.44ff1b2d5800a519
