@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-logo=""group-title="dart",sky
 https://edge.cdn-live-tv.cfd/api/v1/channels/gb-sky-sports-main-event/tracks-v1a1/mono.ts.m3u8?token=38bbe1efb9072f33884178197ac7bed118f19b2b62009141ea1510b23083cb03.1767110261.70d7c738d176df542cf78135c4573230.6a268da48f7b9afa36836d8f44718b74.3f91ad1330cac3e1d0865ff1061f923e.44ff1b2d5800a519
 
-#EXTINF:-1 tvg-logo=""group-title="bein",bein
-https://edge.cdn-live-tv.cfd/api/v1/channels/fr-bein-sports-1/index.m3u8?token=f6710e250fd98a8ce71ecfb6ec27e164dc70b21e113683da25194ce0f2d466f3.1767114296.e8bfc4d1952751c0c827f1fe992aee19.4de9b225d0553069e9773047202f0ed1.3602564ff30d6567524b7c08b6fb46e7.89d75c57c0bda0dc
+#EXTINF:-1 tvg-logo=""group-title="bein",espn
+https://edge.cdn-live-tv.cfd/api/v1/channels/us-espn/index.m3u8?token=edb2268194038ff1896ea0b04fc51a358517a7e980cae87f8f5b817116ba726f.1767136208.d7f10194e33142ef7f90f58f953c9cc4.2f9e7f8d8b96c238c5020e3026c36f72.c80ebd3d0365ca101ba7b6c2139595db.331e129ce618dc2f
 
 #EXTINF:-1 tvg-logo=""group-title="Esportes",tnt 2
-https://edge.cdn-live-tv.cfd/api/v1/channels/gb-tnt-sports-2/index.m3u8?token=d15df1626d096692979ef4b88c0fdd200a7d6921f754349d33ab083a51af7826.1767117680.0a10484bd21e0d981e603684df509760.db9dfca2583164eeb0454d86899fb050.1f0ad56bc26e4d4d4952012e682a5973.0c2b46365d7a4a73
