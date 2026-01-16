@@ -44,5 +44,7 @@ https://ranapk.online/GOLDDD/play.php?id=303153|user-agent=RANAPK
 #EXTINF:-1 tvg-name="NHL" group-title="NHL",NHL 15
 https://ranapk.online/GOLDDD/play.php?id=303152|user-agent=RANAPK
 
-#EXTINF:-1 tvg-name="NHL" group-title="TESTE2",teste
-http://64.31.52.46/auth/261837.m3u8?token=XyF8DmHX3F1PbglGFDA8Vb1b9yBf8DjxoTCbOxQ1424DM_oh6lyjGby7K6mZFcokvTH5pDziD2N0y-Wv8VAwva_JpqDBlrkQ6b-S7M1790WxyQIw-KWqrICoi-gHmHO4r6NmbcdDURHetP5f73Q02tTw91MLKUapkT8U7inOUBdBBnno7iuJBn2aZ3pr_XK1kkE2YtTdAG2tunRrP5nJZTHbvWqcZH1_52go52KKvessMCjfj7H-F3KW2-4i5iaBBZgk0pIh2C2ZxKi_hPktcppea8Gl99EC6pCWsqXT1F0gxHX4vD0Q7SxNe6SuNRmATB-b6wok1lleYuete0wjsqOtSRUxoLThRelnGPC48RGe4BfkU6GNBlSA6KwSeAv0bcihYGgu6v3DWwC913gn95uZLaISqR81Plm-BN-fbuC9EXTFdeEqI-BnveGxntEhjWfCWpeOpXksIhsSIvdrlcHEXECeIq0_lvbb1JRBCVStiCbr3SAOIRfPocmuwBT83mdJJSBz9frR0fDeKpC3HqMdc4JbVfg2NVnsFdJ6WE4WDExqftxB63HUbl3FiL2DDHmr05oFFBPKRuO-XGEY1w
+#EXTINF:-1 tvg-name="NHL" group-title="TESTE",teste1
+http://lmdns.online:80/4x6cXF/ehfxdp/261154.m3u8
+
+#EXTINF:-1 tvg-name="NHL" group-title="TESTE",teste2
