@@ -44,8 +44,5 @@ https://ranapk.online/GOLDDD/play.php?id=303153|user-agent=RANAPK
 #EXTINF:-1 tvg-name="NHL" group-title="NHL",NHL 15
 https://ranapk.online/GOLDDD/play.php?id=303152|user-agent=RANAPK
 
-#EXTINF:-1 tvg-name="NHL" group-title="TESTE",teste1
-http://200.4.96.59:8825/play/a06s/index.m3u8
-
-#EXTINF:-1 tvg-name="NHL" group-title="TESTE",teste2
-https://e4-22.n4154.xyz/36325303.m3u8
+#EXTINF:-1 tvg-name="NHL" group-title="TESTE1",teste
+https://saa1.vdcast.live/0Fc3ZkeQdYVVtYVoTqeSxg/1769151413/323830343a3338393a643132363a646236363a663965323a353761323a663537643a36646332/ff701/playlist.m3u8?b=1
