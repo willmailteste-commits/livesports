@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" group-title="SPORTS",Sky Sport Top Event
+#EXTINF:-1 tvg-name="" group-title="Sports",Sky Sport Top Event
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=971771&extension=ts&play_token=DKJw1hxwgC
 
-#EXTM3U
-#EXTINF:-1 tvg-name="" group-title="SPORTS",Sky Sport Tennis
+#EXTINF:-1 tvg-name="" group-title="Sports",Sky Sport Tennis
 http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=971739&extension=ts&play_token=bjASdRwK6E
 
