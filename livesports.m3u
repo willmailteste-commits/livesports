@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" group-title="Esportes",Sky
 https://papacito.cfd/m3u/uk-330030303/live.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="Esportes",Premiere
+http://79.127.238.228:14157
