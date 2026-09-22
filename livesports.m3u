@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="" group-title="Esportes",Sky Tennis UK
-https://papacito.cfd/m3u/uk-330030303/live.m3u8
-
-#EXTINF:-1 tvg-name="" group-title="Esportes",Premiere
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevPiqkihfLQkIUk3T5YaQ-GFEHRWZzcfjlXQ_nrAcAA&s=10" group-title="Esportes",Premiere 1
 https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjI2Mi5tM3U4.m3u8
