@@ -10,3 +10,11 @@ http://138.204.86.4:8080/ESPN3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",ESPN 4
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SportTV 2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 3
