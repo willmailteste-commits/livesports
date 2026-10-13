@@ -19,3 +19,6 @@ https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv2/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 3
 https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv3/sportv3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",Premiere 2
+http://45.185.11.126:8000/play/a06h/index.m3u8
