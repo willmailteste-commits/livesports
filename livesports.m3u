@@ -19,3 +19,6 @@ http://45.185.11.126:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 3
 http://45.185.11.126:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",Space
+http://dns.explouddev.com:80/live/529778152/b759U1776T/705.m3u8
