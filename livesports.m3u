@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",20:00 | Vancouver Canucks x Florida Panthers
+#EXTINF:-1 tvg-name="Vancouver Canucks x Florida Panthers" group-title="NHL",20:00 | Vancouver Canucks x Florida Panthers
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/21237.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",20:00 | New York Rangers x New Jersey Devils
+#EXTINF:-1 tvg-name="New York Rangers x New Jersey Devils" group-title="NHL",20:00 | New York Rangers x New Jersey Devils
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/20879.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Esportes",20:00 | New York Islanders x Ottawa Senators
+#EXTINF:-1 tvg-name="New York Islanders x Ottawa Senators" group-title="NHL",20:00 | New York Islanders x Ottawa Senators
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/57432.ts
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",20:00 | Seattle Kraken x Tampa Bay Lightning
+#EXTINF:-1 tvg-name="Seattle Kraken x Tampa Bay Lightning" group-title="NHL",20:00 | Seattle Kraken x Tampa Bay Lightning
 CANAL:The_Spot|Prime_Video|_KONG
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",20:00 | Buffalo Sabres x Toronto Maple Leafs
+#EXTINF:-1 tvg-name="Buffalo Sabres x Toronto Maple Leafs" group-title="NHL",20:00 | Buffalo Sabres x Toronto Maple Leafs
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/57431.ts
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",20:30 | Philadelphia Flyers x Detroit Red Wings
+#EXTINF:-1 tvg-name="Philadelphia Flyers x Detroit Red Wings" group-title="NHL",20:30 | Philadelphia Flyers x Detroit Red Wings
 CANAL:ESPN+|Hulu|_Disney+
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",21:00 | Winnipeg Jets x Chicago Blackhawks
+#EXTINF:-1 tvg-name="Winnipeg Jets x Chicago Blackhawks" group-title="NHL",21:00 | Winnipeg Jets x Chicago Blackhawks
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/37042.ts
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",21:00 | St. Louis Blues x Minnesota Wild
+#EXTINF:-1 tvg-name="St. Louis Blues x Minnesota Wild" group-title="NHL",21:00 | St. Louis Blues x Minnesota Wild
 CANAL:STLNHL|MINNHL|Bally_Sports+|_Wild+
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",21:00 | San Jose Sharks x Nashville Predators
+#EXTINF:-1 tvg-name="San Jose Sharks x Nashville Predators" group-title="NHL",21:00 | San Jose Sharks x Nashville Predators
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/37045.ts
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",22:00 | Utah Mammoth x Edmonton Oilers
+#EXTINF:-1 tvg-name="Utah Mammoth x Edmonton Oilers" group-title="NHL",22:00 | Utah Mammoth x Edmonton Oilers
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/21238.ts
 
-#EXTINF:-1 tvg-logo="COLE_URL_DA_THUMB_AQUI" group-title="Esportes",23:00 | Calgary Flames x Vegas Golden Knights
+#EXTINF:-1 tvg-name="Calgary Flames x Vegas Golden Knights" group-title="NHL",23:00 | Calgary Flames x Vegas Golden Knights
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/21235.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",ESPN 1
