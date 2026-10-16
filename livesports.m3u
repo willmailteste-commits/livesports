@@ -8,23 +8,23 @@ http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/49299.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b5be881760899785.jpg" group-title="NHL",23:00 | Anaheim Ducks x Boston Bruins
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/37010.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 2
 http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",ESPN 3
-https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn3/espn3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 3
+http://ruife.in:80/asd1445796tv2/Zaptv2025/21235
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 4
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",SporTV 1
 http://dns.explouddev.com:80/live/529778152/b759U1776T/284576.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",SporTV 2
 http://ruife.in:80/asd1445796tv2/Zaptv2025/118703
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Esportes",SporTV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",SporTV 3
 http://45.185.11.126:8000/play/a06v/index.m3u8
