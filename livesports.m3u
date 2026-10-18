@@ -19,10 +19,10 @@ https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn3/espn3.m3u8
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv.png" group-title="Canais",SporTV 1
-http://dns.explouddev.com:80/live/529778152/b759U1776T/284576.m3u8
+https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv/sportv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Canais",SporTV 2
-http://dns.explouddev.com:80/live/501212992/G1Dw4f/554.m3u8
+https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv2/sportv2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Canais",SporTV 3
-http://dns.explouddev.com:80/live/501212992/G1Dw4f/559.m3u8
+https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv3/sportv3.m3u8
