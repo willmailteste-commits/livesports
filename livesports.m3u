@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TESTE",TESTE 1
+http://vaiagora.vip:80/live/Qwert221/Ma1313/317694.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TESTE",TESTE 2
+http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/49299.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b6kfkp1769683975.jpg" group-title="Brasileirão Série A",16:00 | Fluminense x Santos
 https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere2/premiere2.m3u8
 
