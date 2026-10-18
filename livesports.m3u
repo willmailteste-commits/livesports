@@ -1,4 +1,17 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",16:00 | Fluminense x Santos
+http://64.31.23.207:80/96795792/50165825/3460212.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",16:00 | Grêmio x Cruzeiro
+http://64.31.23.207:80/96795792/50165825/3460218.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",18:30 | Bahia x Flamengo
+http://64.31.23.207:80/96795792/50165825/3460209.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",19:30 | Remo x Red Bull Bragantino
+http://64.31.23.207:80/96795792/50165825/3460218.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
