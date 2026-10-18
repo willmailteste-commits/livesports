@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/akccte1769683982.jpg" group-title="Brasileirão Série A",20:00 | Mirassol x Internacional
-http://ruife.in:80/asd1445796tv2/Zaptv2025/284576
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hjjn331760901222.jpg" group-title="NHL",22:00 | Colorado Avalanche x Pittsburgh Penguins
-http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/49299.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b5be881760899785.jpg" group-title="NHL",23:00 | Anaheim Ducks x Boston Bruins
-http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/37010.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/az1rok1769683989.jpg" group-title="Brasileirão Série A",21:00 | São Paulo x Vasco
+https://v5on.site/play.php?id=195287
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
