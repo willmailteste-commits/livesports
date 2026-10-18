@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b6kfkp1769683975.jpg" group-title="Brasileirão Série A",16:00 | Fluminense x Santos
-https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere2/premiere2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tsenxw1769683978.jpg" group-title="Brasileirão Série A",16:00 | Grêmio x Cruzeiro
-https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere4/premiere4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mni7jf1769683964.jpg" group-title="Brasileirão Série A",18:30 | Bahia x Flamengo
 https://fallback1.nexustvplay.bbroot.com/nxs/stream/premiere/premiere.m3u8
@@ -18,7 +13,7 @@ http://45.162.64.114/ESPN_BRASIL/index.m3u8
 http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Canais",ESPN 3
-http://dns.explouddev.com:80/live/501212992/G1Dw4f/220.m3u8
+https://fallback1.nexustvplay.bbroot.com/nxs/stream/espn3/espn3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Canais",ESPN 4
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
