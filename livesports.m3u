@@ -6,7 +6,7 @@ http://45.162.64.114/ESPN_BRASIL/index.m3u8
 http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Canais",ESPN 3
-http://ruife.in:80/asd1445796tv2/Zaptv2025/21235
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/220.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Canais",ESPN 4
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
