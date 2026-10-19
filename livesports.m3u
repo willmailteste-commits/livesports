@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",teste
-http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/49299.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hgrybj1769683971.jpg" group-title="Brasileirão Série A",20:00 | Corinthians x Vitória
 https://fallback1.nexustvplay.bbroot.com/nxs/stream/sportv/sportv.m3u8
