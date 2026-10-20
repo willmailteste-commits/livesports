@@ -9,6 +9,9 @@ http://138.204.86.4:8080/ESPN2_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Canais",ESPN 3
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/espn3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn3.png" group-title="Canais",ESPN 3²
+https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/b6718d0e3c489414763d31a2f5a52c01/error.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn4.png" group-title="Canais",ESPN 4
 http://138.204.86.4:8080/ESPN4_HD/index.m3u8
 
