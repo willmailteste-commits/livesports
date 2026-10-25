@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",19:30 | Chapecoense x Fluminense
-http://roletarussa.top:80/heitorteste2/Ht9910621212/1895
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",21:00 | Santos x Bahia
-http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2193.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
@@ -23,9 +17,6 @@ http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2038.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Canais",SporTV 2
 http://roletarussa.top:80/live/heitorteste2/Ht9910621212/1917.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv2.png" group-title="Canais",SporTV 2²
-http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2036.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Canais",SporTV 3
 https://86eb89e9b94c94323705944a729cf618.s25-cloudfront-net.lat/stream/9dd6d458d61b692b36cdf6a11e8bd1b1/error.m3u8
