@@ -1,11 +1,19 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-name="Premiere 2" tvg-logo="http://sinalpublico.com/logos/Premiere2.png" group-title="Brasileirão Série A",19:30 | Coritiba x Grêmio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://2210.playerembcanais.com
-#EXTVLCOPT:http-origin=https://2210.playerembcanais.com
-https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/espn/index.m3u8
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/premiere2/index.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" tvg-logo="https://i.ibb.co/6803zcx/SporTV.png" group-title="Brasileirão Série A",20:00 | Flamengo x Atlético-MG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://2210.playerembcanais.com
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sportv/index.m3u8
+
+#EXTINF:-1 tvg-name="XSports" tvg-logo="https://i.ibb.co/Srt6R3f/XSports.png" group-title="Ligue 1",16:30 | PSG x Lyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://2210.playerembcanais.com
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/xsports/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
