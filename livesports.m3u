@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",19:30 | Fluminense x Internacional
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/1892.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",19:30 | Red Bull Bragantino x Chapecoense
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2191.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",19:30 | Santos x Palmeiras
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/1898.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",21:30 | Bahia x São Paulo
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2193.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",21:30 | Remo x Botafogo
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/1893.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
