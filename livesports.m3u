@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Ligue 1",15:00 | Le Havre x PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
+#EXTVLCOPT:http-origin=https://2910.playerembcanais.com
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cazetv2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/97boh21783076763.jpg" group-title="Bundesliga",16:30 | Elversberg x Mainz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
@@ -32,15 +38,3 @@ http://roletarussa.top:80/live/heitorteste2/Ht9910621212/1917.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/sportv3.png" group-title="Canais",SporTV 3
 http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2037.m3u8
-
-#EXTINF:-1 tvg-name="Sportynet" group-title="Esportes",Sportynet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
-#EXTVLCOPT:http-origin=https://2910.playerembcanais.com
-https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sportynet/index.m3u8?mf_watch=cf22008f73104840a84b60798e7fbe9e&mf_isa=1
-
-#EXTINF:-1,CazéTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
-#EXTVLCOPT:http-origin=https://2910.playerembcanais.com
-https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cazetv2/index.m3u8
