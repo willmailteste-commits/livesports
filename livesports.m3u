@@ -38,3 +38,9 @@ http://roletarussa.top:80/live/heitorteste2/Ht9910621212/2037.m3u8
 #EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
 #EXTVLCOPT:http-origin=https://2910.playerembcanais.com
 https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/sportynet/index.m3u8?mf_watch=cf22008f73104840a84b60798e7fbe9e&mf_isa=1
+
+#EXTINF:-1,CazéTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
+#EXTVLCOPT:http-origin=https://2910.playerembcanais.com
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/cazetv2/index.m3u8
