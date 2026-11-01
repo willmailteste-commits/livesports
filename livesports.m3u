@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5qdwpe1784549350.jpg" group-title="Premier League",13:30 | Liverpool x Arsenal
+http://45.162.64.114/ESPN_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Copa do Brasil",16:00 | Palmeiras x Vasco
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/13069.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Copa do Brasil",18:30 | Grêmio x Atlético-MG
+http://roletarussa.top:80/live/heitorteste2/Ht9910621212/13069.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
