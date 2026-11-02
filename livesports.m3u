@@ -1,7 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/llt07k1793220258.jpg" group-title="Premier League",17:00 | Newcastle x Everton
-http://otrasbx.com:80/live/1418j7w0qa/sm6in4jszs/83217.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://2910.playerembcanais.com
+#EXTVLCOPT:http-origin=https://2910.playerembcanais.com
+https://d1-ywppjexvlyulasvmgzjdftfjikth2210oq80soveui6lkbi2iza2zf.cdn10embed.xyz/espn4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/yityt81769684127.jpg" group-title="Brasileirão Série A",20:00 | Red Bull Bragantino x Santos
 http://roletarussa.top:80/heitorteste2/Ht9910621212/2038
