@@ -1,38 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",14:45 | Galatasaray x Stuttgart
-http://multserver.space/607385308/867678198/223572.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",14:45 | Shakhtar x Sporting
-http://multserver.space/607385308/867678198/223586.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | Atl. Madrid x Bayern
-http://multserver.space/607385308/867678198/223572.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | Barcelona x Aston Villa
-http://multserver.space/607385308/867678198/223586.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | Bodo/Glimt x Lille
-HBO_Max
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | Feyenoord x Inter
-HBO_Max
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | LASK x Slovan Bratislava
-HBO_Max
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | Manchester Utd x AS Roma
-youtube_TNT_Sports
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Liga dos Campeões",17:00 | Villarreal x PSG
-HBO_Max
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",19:30 | Chapecoense x Mirassol
-http://multserver.space/607385308/867678198/124928.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Brasileirão Série A",21:30 | Internacional x Coritiba
-http://multserver.space/607385308/867678198/124949.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.faz-o-eli.online/espn.png" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
