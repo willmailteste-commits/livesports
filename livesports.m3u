@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7msbc61784549361.jpg" group-title="Premier League",11:00 | Ipswich x Bournemouth
+http://lbplay.ddns.me/live/Nikardo95091/yCm53G/71909.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fn9gqu1785931545.jpg" group-title="Premier League",11:00 | Sunderland x Chelsea
+http://45.162.64.114/ESPN_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hi8fte1787740860.jpg" group-title="Premier League",13:30 | Manchester Utd x Aston Villa
+http://45.162.64.114/ESPN_BRASIL/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
