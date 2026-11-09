@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Copa da Inglaterra",16:30 | Plymouth Parkway x Berkhamsted
+http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/16552.ts
