@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://urlsrt.com/YStIeT" group-title="Canais",ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais",ESPN 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tennis",Tennis
