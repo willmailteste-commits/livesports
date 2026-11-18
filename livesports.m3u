@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/o7o7in1769684159.jpg" group-title="Brasileirão Série A",19:30 | Coritiba x Santos
+http://sansatplus.net:88/live/02000406070996/1899319467/577076.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wn3a0x1769684196.jpg" group-title="Brasileirão Série A",20:00 | Remo x Chapecoense
+http://sansatplus.net:88/live/02000406070996/1899319467/577075.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/o9x7j81784872093.jpg" group-title="Brasileirão Série A",20:30 | Cruzeiro x Palmeiras
+http://sansatplus.net:88/live/02000406070996/1899319467/577071.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/aw46xg1769684185.jpg" group-title="Brasileirão Série A",20:30 | Flamengo x Athletico-PR
+http://sansatplus.net:88/live/02000406070996/1899319467/577109.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2vc7ga1769684156.jpg" group-title="Brasileirão Série A",21:30 | Corinthians x Botafogo
+http://sansatplus.net:88/live/02000406070996/1899319467/577072.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zddu4s1769684188.jpg" group-title="Brasileirão Série A",21:30 | Grêmio x Bahia
+http://sansatplus.net:88/live/02000406070996/1899319467/577074.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Canais",SporTV
 https://urlsrt.com/C442ZH
 
