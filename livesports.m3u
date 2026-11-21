@@ -1,1 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ngtcwv1784872094.jpg" group-title="Brasileirão Série A",16:30 | Palmeiras x Flamengo
+http://ruife.in:80/live/asd1445796tv2/Zaptv2025/492.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/y4sgzn1769684217.jpg" group-title="Brasileirão Série A",17:30 | Bahia x Coritiba
+http://ruife.in:80/live/asd1445796tv2/Zaptv2025/497.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/s7vr0u1769684228.jpg" group-title="Brasileirão Série A",21:00 | Chapecoense x Cruzeiro
+http://ruife.in:80/live/asd1445796tv2/Zaptv2025/492.m3u8
